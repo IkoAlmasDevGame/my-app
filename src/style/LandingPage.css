@@ -1,0 +1,44 @@
+.MyBG {
+    height: 100vh;
+    background-image: radial-gradient(rgb(125, 75, 100), rgba(125, 200, 150, 0.25));
+}
+
+.font {
+    font-size: medium;
+}
+
+.LatestNews{
+    width: 50 50rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.intro {
+    height: 30%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.Latest {
+    height: 100vh;
+    background-size: cover;
+}
+
+.NavBG {
+    background-color: white;
+}
+
+.small {
+    font-size: medium;
+}
